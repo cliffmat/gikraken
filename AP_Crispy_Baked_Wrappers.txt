@@ -26,6 +26,5 @@ Directions
 
 Additional Text for Branching
 Commit 1
-Add 1/2 tablespoon of Spring Roll Dipping Sauce.
-Add 1/2 tablespoon of Spring Roll Dipping Sauce.
+change it
 Or put the sauce on the side for individual dipping.
